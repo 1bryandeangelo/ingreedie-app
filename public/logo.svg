@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" width="60" height="60">
+  <rect width="60" height="60" rx="16" fill="#15803d"/>
+  <!-- platter base -->
+  <rect x="8" y="43" width="44" height="4" rx="2" fill="white"/>
+  <!-- dome -->
+  <path d="M11 43 C11 24 49 24 49 43Z" fill="white"/>
+  <!-- left leaf -->
+  <path d="M30 24 C27 18 22 16 23 11 C27 10 32 15 30 24Z" fill="#86efac"/>
+  <!-- right leaf -->
+  <path d="M30 24 C33 18 38 16 37 11 C33 10 28 15 30 24Z" fill="#4ade80"/>
+</svg>
